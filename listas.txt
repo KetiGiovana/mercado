@@ -2,3 +2,4 @@ Tomate
 Batata
 Cenoura
 Pipoca
+Chocolate
